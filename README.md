@@ -1,4 +1,4 @@
-Hi I am Akram Hussain working in Cyient Ltd as a Product Reliability Analyst where my role is to analys the data receive from the Product user (Airlines) and do EDA on the data.
+Hi I am Akram Hussain working in Cyient Ltd as a Product Reliability Analyst where my role is to analyse the data receive from the Product user (Airlines) and do EDA on the data.
 
 I have created this Web application to make EDA easy to perform without coding knowledge just by using button click.
 
